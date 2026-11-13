@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+models/*.joblib
+models/*.keras
+models/tf_*/
+data/patients.csv
+evals/*.json
+runs/
+chroma_db/
+.DS_Store
+.env
